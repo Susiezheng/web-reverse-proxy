@@ -12,7 +12,8 @@ node app.js
 ### 本地加后端启动项目
 PROXY_VUE=http://xxxxx node app.js
 
-###服务器上部署前端启动
+
+### 服务器上部署前端启动
 1. ssh xxx@ip地址 进入这个服务器
 1. useradd xxx 新增用户
 1. passwd xxx 设置密码
