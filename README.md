@@ -19,5 +19,6 @@ PROXY_VUE=http://xxxxx node app.js
 1. passwd xxx 设置密码
 1. exit 退出
 1. 使用新账号登录
+1. 使用FileZilla应用，把编译后的文件上传到服务器指定路径
 1. su - xxx 切换用户，安装node
 1. 到相应目录下，启动PROXY_VUE=http://xxxxx node app.js
